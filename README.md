@@ -35,25 +35,47 @@ ChillBot is an **AI-powered mental health support chatbot** designed to help stu
 
 ---
 
-## 🏗 How to Set Up Locally  
+---
 
-### 1️⃣ Clone the Repository  
-git clone https://github.com/your-repo-link.git
-cd ChillBot
+## 📌 How to Run the Project Locally  
+Follow these steps to set up and run **ChillBot** on your local machine.  
 
-### 2️⃣ Install Dependencies
+### 🔹 Step 1: Clone the Repository
+```bash
+git clone https://github.com/Vedika-Sd/Chillbot-Student-Companion.git
+cd Chillbot-Student-Companion
+```
+
+### 🔹 Step 2: Install Dependencies  
+Make sure you have **Python 3.8+** installed. Then, install the required packages:  
+```bash
 pip install -r requirements.txt
+```
 
-### 3️⃣ Run the Application
-streamlit run app.py
+### 🔹 Step 3: Set Up Environment Variables  
+Create a `.env` file in the project directory and add your API keys:  
+```plaintext
+API_KEY=your_gemini_api_key
+```
 
+### 🔹 Step 4: Run the Backend (Flask API)
+```bash
+python app_backend.py
+```
+The backend will start running at `http://127.0.0.1:5000`.
 
-### 👨‍💻 Developers
+### 🔹 Step 5: Run the Frontend (Streamlit)
+In a new terminal, run:
+```bash
+streamlit run app_frontend.py
+```
+The Streamlit UI will launch in your browser.
+
+---
+
+### 👨‍💻 Contributiors
 - Vedika Sardeshmukh
-
 - Sakshi More
-
 - Dnyaneshwari Pawar
-
 - Vedanti Ghongade
 
