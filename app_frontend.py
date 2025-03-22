@@ -35,7 +35,7 @@ def load_lottie_file(filepath):
 
 # Load animations
 chat_animation = load_lottie("https://assets9.lottiefiles.com/packages/lf20_q5pk6p1k.json")
-chatbot_logo = load_lottie_file("Animation - chatbot.json")
+chatbot_logo = load_lottie_file("Animation.json")
 
 st.set_page_config(
     page_title="ChillBot - Your Sukh Dukh Ka Sathi",
