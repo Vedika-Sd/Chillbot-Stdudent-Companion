@@ -4,13 +4,14 @@
 ## 🚀 About ChillBot  
 ChillBot is an **AI-powered mental health support chatbot** designed to help students manage stress, stay motivated, and build healthy habits.  
 
-### ✨ Features:  
-- ✅ **Emotion-based responses** for personalized mental health support  
-- ✅ **Study motivation & productivity tips**  
-- ✅ **Healthy Daily Planner** with streak tracking & alarms  
-- ✅ **Crisis support & relaxation techniques**  
-- ✅ **Gamification & interactive features**  
-
+### 🔹 What Can ChillBot Do?
+- ✅ Answer Queries & Provide Emotional Support 🤖💬
+- ✅ Help in Studies – Answers academic questions & suggests related content 📚
+- ✅ Diary Feature – A place to write achievements & happy moments for self-motivation ✍️😊
+- ✅ Goal Tracker & Reminders – Helps users stay on track with calendar pop-ups & notifications 🎯📅
+- ✅ Healthy Day Planner – Encourages self-care & allows alarm setup ⏰💆‍♂️
+- ✅ Chat & Voice Assistant – Provides interaction via both text & voice 🎙️🔊
+- ✅ History Tracking – Saves past interactions for better user experience 🗂️
 ---
 
 ## 🛠 Tech Stack  
